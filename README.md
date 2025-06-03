@@ -2,9 +2,9 @@
 
 ## 🚀 Full-Stack Developer | Mobile App Developer
 
-🌱 Currently Exploring: Full-Stack Development (MERN & Java), Mobile App Development (React Native, Android, iOS).
-🎯 Career Goal: To become an expert in mobile app development and work on impactful software solutions.
-💡 Passionate About: Problem-solving, building scalable applications, and contributing to open-source projects.
+🌱 Currently Exploring: Full-Stack Development (MERN & Java), Mobile App Development (React Native, Android, iOS).<br>
+🎯 Career Goal: To become an expert in mobile app development and work on impactful software solutions.<br>
+💡 Passionate About: Problem-solving, building scalable applications, and contributing to open-source projects.<br>
 
 ### 👨‍💻 About Me
 - 🎓 B.E. in Computer Science (2024) | Prof. Ram Meghe Institute of Technology & Research, Badnera
@@ -21,11 +21,16 @@
 -	Winner of Hackathons
 -	1st Prize in Dance Choreography & Reel Competitions
 
-📌 Currently Seeking: Technical roles in Full-Stack Development, Software Engineering, and Mobile App Development.
+### 📌 Currently Seeking: 
+Technical roles in:
+- Full-Stack Development
+- Software Engineering
+- Mobile App Development.
 
 📫 Let’s Connect!
 ---
 
-💼 LinkedIn: Yash Vijay Bharsakle
-📧 Email: yashvijaybharsakle451@gmail.com
+📫 Let’s Connect!<br>
+💼 LinkedIn: Yash Vijay Bharsakle<br>
+📧 Email: yashvijaybharsakle451@gmail.com<br>
 🌐 Portfolio: 
