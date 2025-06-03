@@ -1,7 +1,7 @@
 # Hi there! 👋 **I’m Yash Vijay Bharsakle**
 
 ## 🚀 Full-Stack Developer | Mobile App Developer
----
+
 🌱 Currently Exploring: Full-Stack Development (MERN & Java), Mobile App Development (React Native, Android, iOS).
 🎯 Career Goal: To become an expert in mobile app development and work on impactful software solutions.
 💡 Passionate About: Problem-solving, building scalable applications, and contributing to open-source projects.
@@ -17,7 +17,7 @@
 -	Intelligent Traffic Management System (Final Year Project)
 
 ###  🏆 Achievements:
--•	All India Rank (AIR) 14,000 in GATE
+-	All India Rank (AIR) 14,000 in GATE
 -	Winner of Hackathons
 -	1st Prize in Dance Choreography & Reel Competitions
 
